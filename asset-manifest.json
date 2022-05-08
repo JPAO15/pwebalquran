@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pwebalquran/static/css/main.f785e076.css",
+    "main.js": "/pwebalquran/static/js/main.d516080d.js",
+    "static/js/415.04d0bd39.chunk.js": "/pwebalquran/static/js/415.04d0bd39.chunk.js",
+    "static/js/787.61da0df5.chunk.js": "/pwebalquran/static/js/787.61da0df5.chunk.js",
+    "static/media/lentera.jpg": "/pwebalquran/static/media/lentera.2c39b3bcd3289f483e12.jpg",
+    "static/media/wol.jpg": "/pwebalquran/static/media/wol.8ebf1811c707261e30c3.jpg",
+    "static/media/fotor.jpg": "/pwebalquran/static/media/fotor.7d1adc64ebbeb5ec918b.jpg",
+    "static/media/logo2.png": "/pwebalquran/static/media/logo2.3879f270d2ffa554d5ef.png",
+    "static/media/pre.svg": "/pwebalquran/static/media/pre.84272464099b038fe50d.svg",
+    "index.html": "/pwebalquran/index.html",
+    "main.f785e076.css.map": "/pwebalquran/static/css/main.f785e076.css.map",
+    "main.d516080d.js.map": "/pwebalquran/static/js/main.d516080d.js.map",
+    "415.04d0bd39.chunk.js.map": "/pwebalquran/static/js/415.04d0bd39.chunk.js.map",
+    "787.61da0df5.chunk.js.map": "/pwebalquran/static/js/787.61da0df5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f785e076.css",
+    "static/js/main.d516080d.js"
+  ]
+}
